@@ -4,7 +4,7 @@ import ExpenseDate from "./ExpenseDate";
 import Card from "../UI/Card";
 function ExpenseItem(props) {
   return (
-    <li>
+    // <li style={{ listStyleType: "none" }}>
       <Card className="expense-item">
         <ExpenseDate date={props.date} />
         <div className="expense-item__description">
@@ -13,7 +13,7 @@ function ExpenseItem(props) {
         </div>
         {/* <button onClick={clickHandler}>Change title</button> */}
       </Card>
-    </li>
+    // </li>
   );
 }
 

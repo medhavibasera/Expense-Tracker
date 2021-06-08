@@ -1,10 +1,10 @@
 # Expense-Tracker
 
-###The application helps you track your expenses for a particular year. 
+### The application helps you track your expenses for a particular year. 
 
-###You can add the item along with their cost and date purchased.
+### You can add the item along with their cost and date purchased.
 
-###Filter by year helps you to ,find your expenses for that year across different months through the expenses bar for a month.
+### Filter by year helps you to ,find your expenses for that year across different months through the expenses bar for a month.
 
 
 #### Preview:   
